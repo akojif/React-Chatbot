@@ -25,12 +25,12 @@
 4. Start the development server
 
    ```
-   npm start
+   npm run start
    ```
 ## 🚀 Building and Running for Production
 
 1. Generate a full static production build
 
    ```
-   npm build
+   npm run build
    ```
