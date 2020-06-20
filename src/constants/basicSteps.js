@@ -1,6 +1,6 @@
 let basicSteps = [{
         id: '1',
-        message: 'Hi! Welcome to @Francis\'s Chatbot',
+        message: 'Hi! Welcome to Francis\'s Chatbot',
         trigger: '2'
     },
     {
@@ -58,7 +58,7 @@ let basicSteps = [{
     },
     {
         id: '12',
-        message: '@Francis told me it has been stressful and interesting though',
+        message: 'Francis told me it has been stressful and interesting though',
         trigger: '13'
     },
     {
@@ -98,7 +98,7 @@ let basicSteps = [{
     },
     {
         id: '20',
-        message: '@Francis deserves to be in stage 4 :).',
+        message: 'Francis deserves to be in stage 4 :).',
         trigger: 21
     },
     {
