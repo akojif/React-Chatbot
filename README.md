@@ -4,7 +4,7 @@
 
  ## 🛠 Installation & Set Up
 
-1. Install the Node Js
+1. Install Node Js
 
    ```
    npm install npm -g
