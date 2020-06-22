@@ -7,7 +7,7 @@
 1. Install Node Js
 
    ```
-   npm install npm -g
+   npm install -g
    ```
 
 2. Install Chatbot
